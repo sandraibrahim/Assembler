@@ -1,0 +1,10 @@
+﻿  Assem.cpp
+  Assembler.cpp
+  Emulator.cpp
+  Errors.cpp
+  FileAccess.cpp
+  Instruction.cpp
+  stdafx.cpp
+  SymTab.cpp
+  Generating Code...
+  Assembler.vcxproj -> C:\Users\Sandra\source\repos\Assembler\x64\Debug\Assembler.exe
